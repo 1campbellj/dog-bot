@@ -1,0 +1,10 @@
+#+TITLE: Readme
+* Terraform setup
+#+BEGIN_SRC bash
+# Install terraform 0.12.26
+tfenv install 0.12.26
+cd terraform
+terraform init
+terraform plan
+terraform apply
+#+END_SRC

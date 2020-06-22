@@ -1,0 +1,4 @@
+{:deps
+ {etaoin        {:mvn/version "0.3.6" }
+  clj-http      {:mvn/version "2.3.0"}
+  jarohen/chime {:mvn/version "0.3.2" }}}
